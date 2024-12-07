@@ -1,4 +1,4 @@
--- Ninunj
+-- khushpreet
 
 --Q1: List all the rectangles
 --Select * from rectangles;
